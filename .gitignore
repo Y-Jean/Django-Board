@@ -2,5 +2,4 @@ my_settings.py
 db.sqlite3
 manage.py
 __pycache__/
-powboard/
 secret.json
